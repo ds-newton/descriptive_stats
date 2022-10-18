@@ -1,0 +1,10 @@
+Package: descriptivestats
+Type: Package
+Title: Provides descriptive statistics
+Version: 0.1.0
+Author: DS Newton
+Maintainer: The package maintainer <newtoncyta@gmail.com>
+Description: It is special for giving out the mean, median and other descriptive statistical information. 
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
